@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\test\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
+      "Id": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
       "PackagePath": "staticwebassets\\test.xbru9vucjv.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\test\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {

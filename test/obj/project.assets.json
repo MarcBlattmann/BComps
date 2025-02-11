@@ -541,19 +541,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marc.Blattmann\\.nuget\\packages\\": {}
+    "C:\\Users\\Marc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\Marc.Blattmann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\test\\obj\\",
+      "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\test.csproj",
+      "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marc.Blattmann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -565,8 +565,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BComps\\BComps.csproj": {
-              "projectPath": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BComps\\BComps.csproj"
+            "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj": {
+              "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj"
             }
           }
         }
@@ -605,7 +605,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Marc.Blattmann\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Marc\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

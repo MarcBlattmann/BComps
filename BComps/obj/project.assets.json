@@ -523,19 +523,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marc.Blattmann\\.nuget\\packages\\": {}
+    "C:\\Users\\Marc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BComps\\BComps.csproj",
+      "projectUniqueName": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj",
       "projectName": "BComps",
-      "projectPath": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BComps\\BComps.csproj",
-      "packagesPath": "C:\\Users\\Marc.Blattmann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BComps\\obj\\",
+      "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj",
+      "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marc.Blattmann\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -586,7 +586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Marc.Blattmann\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Marc\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,20 @@
+﻿/* Main design */
+
+input {
+    all: unset;
+    border: 1px #e2e2e5 solid;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 9px 15px;
+    border-radius: 0.5rem;
+}
+
+/* When clicked on */
+
+input:focus {
+    outline: 2px solid #a0a0a9;
+    outline-offset: 2px;
+    border-color: #e6e6e9; 
+}

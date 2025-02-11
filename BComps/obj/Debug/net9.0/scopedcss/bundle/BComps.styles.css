@@ -1,15 +1,14 @@
 /* _content/BComps/Components/BButton.razor.rz.scp.css */
-
 /* Main Style */
 .button[b-3v1ighxhv3] {
     all: unset;
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 10px 15px;
     border-radius: 0.5rem;
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 12px;
     transition: 0.2s linear;
-    display: flex;
-    gap: 5px;
 }
 
 /* Variations Style */
@@ -53,27 +52,24 @@
 .Outline:hover[b-3v1ighxhv3] {
     background-color: rgb(240, 240, 241);
 }
-/* _content/BComps/Components/Input.razor.rz.scp.css */
+/* _content/BComps/Components/BInput.razor.rz.scp.css */
 /* Main design */
-input[b-5z1fjs6psv] {
+
+input[b-9lac2zxead] {
     all: unset;
-    padding: 12px 17px;
-    border-radius: 10px;
-    font-family: sans-serif;
-    font-weight: bold;
-    transition: 0.3s;
-    width: 200px;
+    border: 1px #e2e2e5 solid;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 9px 15px;
+    border-radius: 0.5rem;
 }
 
-/* Version design */
+/* When clicked on */
 
-.Primary[b-5z1fjs6psv] {
-    border: 2px solid rgb(5, 106, 251);
-    background-color: white;
-    color: black;
-}
-
-.Secondary[b-5z1fjs6psv] {
-    background-color: white;
-    border: 2px solid rgba(234, 234, 234, 0.88);
+input:focus[b-9lac2zxead] {
+    outline: 2px solid #a0a0a9;
+    outline-offset: 2px;
+    border-color: #e6e6e9; 
 }
