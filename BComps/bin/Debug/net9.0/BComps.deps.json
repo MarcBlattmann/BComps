@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "BComps/1.0.0": {
+      "BComps/1.1.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "9.0.0"
         },
@@ -135,7 +135,7 @@
     }
   },
   "libraries": {
-    "BComps/1.0.0": {
+    "BComps/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
