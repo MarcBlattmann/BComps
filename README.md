@@ -31,7 +31,7 @@ Buttons are easy to use and available in multiple styles.
 ---
 
 ### ⌨️ Inputs
-The `BInput` component provides a simple and flexible input field.
+The `BInput` component provides a simple input field.
 
 **Usage:**
 ```razor
