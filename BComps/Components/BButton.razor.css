@@ -1,0 +1,54 @@
+
+/* Main Style */
+.button {
+    all: unset;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 0.5rem;
+    font-family: sans-serif;
+    transition: 0.2s linear;
+    display: flex;
+    gap: 5px;
+}
+
+/* Variations Style */
+
+.Primary {
+    background-color: rgb(24, 24, 27);
+    color: #ffffff;
+}
+
+.Secondary {
+    background-color: rgb(242, 242, 243);
+    color: #000000;
+}
+
+.Destructive {
+    background-color: rgb(211, 34, 30);
+    color: #ffffff;
+}
+
+.Outline {
+    padding: 9px 19px;
+    background-color: transparent;
+    border: rgba(228,228,231,0.91) 1px solid;
+    color: #000000;
+}
+
+/* Hover Style */
+
+.Primary:hover {
+    background-color: rgba(24, 24, 27, 0.90);
+}
+
+.Secondary:hover {
+    background-color: rgba(242, 242, 243, 0.90);
+}
+
+.Destructive:hover {
+    background-color: rgba(211, 34, 30, 0.90);
+}
+
+.Outline:hover {
+    background-color: rgb(240, 240, 241);
+}

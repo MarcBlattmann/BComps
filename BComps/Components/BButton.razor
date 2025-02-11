@@ -1,0 +1,22 @@
+
+<button @onclick="OnClick" class="button @Version.ToString()">
+    <span>@ChildContent</span>
+</button>
+
+@code {
+    public enum Ver {
+        Primary,
+        Secondary,
+        Destructive,
+        Outline
+    }
+    
+    [Parameter] 
+    public RenderFragment? ChildContent { get; set; }
+    
+    [Parameter] 
+    public EventCallback<MouseEventArgs> OnClick { get; set; }
+    
+    [Parameter, EditorRequired] 
+    public Ver Version { get; set; }
+}
