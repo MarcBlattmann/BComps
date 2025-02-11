@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = BComps
+build_property.RootNamespace = BComps
+build_property.ProjectDir = C:\Users\Marc\Documents\GitHub\BComps\BTools\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Marc\Documents\GitHub\BComps\BTools
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Marc/Documents/GitHub/BComps/BTools/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marc/Documents/GitHub/BComps/BTools/Components/BButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bgm9h2wfuq
+
+[C:/Users/Marc/Documents/GitHub/BComps/BTools/Components/BInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCSW5wdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-esw6qkgals

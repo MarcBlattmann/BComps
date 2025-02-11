@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTools.marm2ysokf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BTools.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BTools.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BTools.props",
+      "PackagePath": "build\\BTools.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BTools.props",
+      "PackagePath": "buildMultiTargeting\\BTools.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BTools.props",
+      "PackagePath": "buildTransitive\\BTools.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

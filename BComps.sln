@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BComps", "BComps\BComps.csproj", "{C25252D9-65AD-41E6-A385-51D531E51AB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTools", "BTools\BTools.csproj", "{C25252D9-65AD-41E6-A385-51D531E51AB2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{413AECB8-88D5-4B20-B8AB-8FF3D00DF113}"
 EndProject

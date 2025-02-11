@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BTools</id>
+    <version>1.1.1</version>
+    <authors>Marc Blattmann</authors>
+    <icon>werkzeuge.png</icon>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/MarcBlattmann/BComps" commit="77de3a7e6dc67314da72891baabbc542b1c55d87" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\bin\Debug\net9.0\BComps.dll" target="lib\net9.0\BComps.dll" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\scopedcss\projectbundle\BTools.bundle.scp.css" target="staticwebassets\BTools.marm2ysokf.bundle.scp.css" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\staticwebassets\msbuild.BTools.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\staticwebassets\msbuild.BTools.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\staticwebassets\msbuild.build.BTools.props" target="build\BTools.props" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BTools.props" target="buildMultiTargeting\BTools.props" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BTools.props" target="buildTransitive\BTools.props" />
+    <file src="C:\Users\Marc\Documents\GitHub\BComps\BComps\werkzeuge.png" target="werkzeuge.png" />
+  </files>
+</package>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u9JTWAO28pk=",
+  "dgSpecHash": "CTkB9UqLaSA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\test.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,8 @@
     "C:\\Users\\Marc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\Marc\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
     "C:\\Users\\Marc\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
-    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.jsinterop\\9.0.0\\microsoft.jsinterop.9.0.0.nupkg.sha512"
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.jsinterop\\9.0.0\\microsoft.jsinterop.9.0.0.nupkg.sha512",
+    "C:\\Users\\Marc\\.nuget\\packages\\btools\\1.1.1\\btools.1.1.1.nupkg.sha512"
   ],
   "logs": []
 }

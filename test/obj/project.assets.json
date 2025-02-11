@@ -195,17 +195,17 @@
           }
         }
       },
-      "BComps/1.0.0": {
+      "BTools/1.1.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/BComps.dll": {}
+          "bin/placeholder/BTools.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BComps.dll": {}
+          "bin/placeholder/BTools.dll": {}
         }
       }
     }
@@ -529,15 +529,15 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "BComps/1.0.0": {
+    "BTools/1.1.1": {
       "type": "project",
-      "path": "../BComps/BComps.csproj",
-      "msbuildProject": "../BComps/BComps.csproj"
+      "path": "../BTools/BTools.csproj",
+      "msbuildProject": "../BTools/BTools.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "BComps >= 1.0.0"
+      "BTools >= 1.1.1"
     ]
   },
   "packageFolders": {
@@ -565,8 +565,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj": {
-              "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj"
+            "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj": {
+              "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj"
             }
           }
         }

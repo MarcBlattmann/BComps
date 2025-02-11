@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BComps\BComps.csproj" />
+      <ProjectReference Include="..\BTools\BTools.csproj" />
     </ItemGroup>
 
 </Project>

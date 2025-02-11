@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "Hash": "h4wC2si6ymHBXn1hvt3j7+5Xw+2E9OPz/86PXe27NoI=",
+  "Source": "BTools",
+  "BasePath": "_content/BTools",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BTools\\wwwroot",
+      "Source": "BTools",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "BasePath": "_content/BTools",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "SourceId": "BTools",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "BTools#[.{fingerprint=marm2ysokf}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "svgerlw578",
+      "Integrity": "CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "SourceId": "BTools",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "BTools#[.{fingerprint=marm2ysokf}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "svgerlw578",
+      "Integrity": "CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "SourceId": "BTools",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "exampleJsInterop#[.{fingerprint=6pqz8bsss0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xjolhk8n0c",
+      "Integrity": "jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "SourceId": "BTools",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "BTools#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "marm2ysokf",
+      "Integrity": "rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "SourceId": "BTools",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "BTools#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "marm2ysokf",
+      "Integrity": "rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "SourceId": "BTools",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2rx4ajns0",
+      "Integrity": "WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "BTools",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "BasePath": "_content/BTools",
+      "RelativePath": "exampleJsInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pqz8bsss0",
+      "Integrity": "FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "background.png",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "background.x2rx4ajns0.png",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2rx4ajns0"
+        },
+        {
+          "Name": "label",
+          "Value": "background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.styles.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.styles.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.marm2ysokf.styles.css.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marm2ysokf"
+        },
+        {
+          "Name": "label",
+          "Value": "BTools.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.styles.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001792114695"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.styles.css",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+        }
+      ]
+    },
+    {
+      "Route": "BTools.styles.css.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.6pqz8bsss0.js",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005263157895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pqz8bsss0"
+        },
+        {
+          "Name": "label",
+          "Value": "exampleJsInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.6pqz8bsss0.js",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pqz8bsss0"
+        },
+        {
+          "Name": "label",
+          "Value": "exampleJsInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.6pqz8bsss0.js.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pqz8bsss0"
+        },
+        {
+          "Name": "label",
+          "Value": "exampleJsInterop.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.js",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005263157895"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.js",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.js.gz",
+      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ="
+        }
+      ]
+    }
+  ]
+}

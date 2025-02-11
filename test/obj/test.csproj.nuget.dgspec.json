@@ -4,14 +4,14 @@
     "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj": {
+      "version": "1.1.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj",
-        "projectName": "BComps",
-        "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj",
+        "projectUniqueName": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj",
+        "projectName": "BTools",
+        "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj",
         "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\",
+        "outputPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj": {
-                "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\BComps.csproj"
+              "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj": {
+                "projectPath": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BTools\\BTools.csproj"
               }
             }
           }
