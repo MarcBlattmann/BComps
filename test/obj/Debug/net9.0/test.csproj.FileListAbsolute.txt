@@ -31,13 +31,8 @@ C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\r
 C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\test.pdb
 C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\test.genruntimeconfig.cache
 C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\ref\test.dll
-C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BComps.staticwebassets.runtime.json
-C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BComps.staticwebassets.endpoints.json
-C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BComps.dll
-C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BComps.pdb
 C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\test.csproj.AssemblyReference.cache
 C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\test.csproj.Up2Date
-C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\compressed\92rk1w1z3n-u1p6mubo5a.gz
 C:\Users\Marc\Documents\GitHub\BComps\test\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Marc\Documents\GitHub\BComps\test\bin\Debug\net9.0\appsettings.json
 C:\Users\Marc\Documents\GitHub\BComps\test\bin\Debug\net9.0\BComps.staticwebassets.runtime.json
@@ -79,3 +74,9 @@ C:\Users\Marc\Documents\GitHub\BComps\test\obj\Debug\net9.0\test.pdb
 C:\Users\Marc\Documents\GitHub\BComps\test\obj\Debug\net9.0\test.genruntimeconfig.cache
 C:\Users\Marc\Documents\GitHub\BComps\test\obj\Debug\net9.0\ref\test.dll
 C:\Users\Marc\Documents\GitHub\BComps\test\obj\Debug\net9.0\compressed\92rk1w1z3n-km3barszhj.gz
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BTools.staticwebassets.runtime.json
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BTools.staticwebassets.endpoints.json
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BTools.dll
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\bin\Debug\net9.0\BTools.pdb
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\test.sourcelink.json
+C:\Users\Marc.Blattmann\Desktop\Repos\Comp Libary\BComps\test\obj\Debug\net9.0\compressed\92rk1w1z3n-54ci71sn4c.gz

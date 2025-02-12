@@ -1,6 +1,6 @@
 ﻿/* Main design */
 
-input {
+.input {
     all: unset;
     border: 1px #e2e2e5 solid;
     color: #000000;
@@ -13,7 +13,7 @@ input {
 
 /* When clicked on */
 
-input:focus {
+.input:focus {
     outline: 2px solid #a0a0a9;
     outline-offset: 2px;
     border-color: #e6e6e9; 

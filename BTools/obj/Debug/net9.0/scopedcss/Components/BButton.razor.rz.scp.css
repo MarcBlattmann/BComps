@@ -1,5 +1,5 @@
 /* Main Style */
-.button[b-3v1ighxhv3] {
+.button[b-bgm9h2wfuq] {
     all: unset;
     cursor: pointer;
     padding: 10px 15px;
@@ -12,42 +12,52 @@
 
 /* Variations Style */
 
-.Primary[b-3v1ighxhv3] {
+.Primary[b-bgm9h2wfuq] {
     background-color: rgb(24, 24, 27);
     color: #ffffff;
 }
 
-.Secondary[b-3v1ighxhv3] {
+.Secondary[b-bgm9h2wfuq] {
     background-color: rgb(242, 242, 243);
     color: #000000;
 }
 
-.Destructive[b-3v1ighxhv3] {
+.Destructive[b-bgm9h2wfuq] {
     background-color: rgb(211, 34, 30);
     color: #ffffff;
 }
 
-.Outline[b-3v1ighxhv3] {
+.Outline[b-bgm9h2wfuq] {
     padding: 9px 19px;
     background-color: transparent;
     border: rgba(228,228,231,0.91) 1px solid;
     color: #000000;
 }
 
+.Ghost[b-bgm9h2wfuq] {
+    padding: 10px 20px;
+    background-color: transparent;
+    color: #000000;
+}
+
 /* Hover Style */
 
-.Primary:hover[b-3v1ighxhv3] {
+.Primary:hover[b-bgm9h2wfuq] {
     background-color: rgba(24, 24, 27, 0.90);
 }
 
-.Secondary:hover[b-3v1ighxhv3] {
+.Secondary:hover[b-bgm9h2wfuq] {
     background-color: rgba(242, 242, 243, 0.90);
 }
 
-.Destructive:hover[b-3v1ighxhv3] {
+.Destructive:hover[b-bgm9h2wfuq] {
     background-color: rgba(211, 34, 30, 0.90);
 }
 
-.Outline:hover[b-3v1ighxhv3] {
+.Outline:hover[b-bgm9h2wfuq] {
     background-color: rgb(240, 240, 241);
+}
+
+.Ghost:hover[b-bgm9h2wfuq] {
+    background-color: rgb(242, 242, 243);
 }

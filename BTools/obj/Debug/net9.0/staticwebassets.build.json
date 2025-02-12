@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h4wC2si6ymHBXn1hvt3j7+5Xw+2E9OPz/86PXe27NoI=",
+  "Hash": "qCPnFda3plyZrzOtphLdQP5G4QCNKoLK+FJDZnnfNqo=",
   "Source": "BTools",
   "BasePath": "_content/BTools",
   "Mode": "Default",
@@ -10,59 +10,59 @@
     {
       "Name": "BTools\\wwwroot",
       "Source": "BTools",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\",
       "BasePath": "_content/BTools",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-ftvntxf8tr.gz",
       "SourceId": "BTools",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BTools",
-      "RelativePath": "BTools#[.{fingerprint=marm2ysokf}]?.styles.css.gz",
+      "RelativePath": "BTools#[.{fingerprint=ftvntxf8tr}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "RelatedAsset": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "svgerlw578",
-      "Integrity": "CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=",
+      "Fingerprint": "jk61mi6qws",
+      "Integrity": "gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-ftvntxf8tr.gz",
       "SourceId": "BTools",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BTools",
-      "RelativePath": "BTools#[.{fingerprint=marm2ysokf}]!.bundle.scp.css.gz",
+      "RelativePath": "BTools#[.{fingerprint=ftvntxf8tr}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "svgerlw578",
-      "Integrity": "CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=",
+      "Fingerprint": "jk61mi6qws",
+      "Integrity": "gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
       "SourceId": "BTools",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BTools",
       "RelativePath": "exampleJsInterop#[.{fingerprint=6pqz8bsss0}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "RelatedAsset": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\exampleJsInterop.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xjolhk8n0c",
       "Integrity": "jTBIIjClUy4dLr1F1GGFnkUyxu8d94Yg0DDwfj94MPQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js"
+      "OriginalItemSpec": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\exampleJsInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
       "SourceId": "BTools",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BTools",
       "RelativePath": "BTools#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "marm2ysokf",
-      "Integrity": "rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=",
+      "Fingerprint": "ftvntxf8tr",
+      "Integrity": "La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
       "SourceId": "BTools",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BTools",
       "RelativePath": "BTools#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -115,17 +115,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "marm2ysokf",
-      "Integrity": "rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=",
+      "Fingerprint": "ftvntxf8tr",
+      "Integrity": "La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\background.png",
       "SourceId": "BTools",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\",
       "BasePath": "_content/BTools",
       "RelativePath": "background#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\exampleJsInterop.js",
       "SourceId": "BTools",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\",
       "BasePath": "_content/BTools",
       "RelativePath": "exampleJsInterop#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "background.png",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -188,7 +188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -204,7 +204,7 @@
     },
     {
       "Route": "background.x2rx4ajns0.png",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\background.png",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\background.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -225,7 +225,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -249,12 +249,12 @@
     },
     {
       "Route": "BTools.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-ftvntxf8tr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001792114695"
+          "Quality": "0.001689189189"
         }
       ],
       "ResponseHeaders": [
@@ -264,15 +264,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -292,19 +292,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "W/\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
       "Route": "BTools.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -313,7 +313,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1599"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -321,11 +321,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -335,13 +335,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
       "Route": "BTools.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-ftvntxf8tr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -350,7 +350,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "Content-Type",
@@ -358,11 +358,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -380,18 +380,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+          "Value": "sha256-gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Route": "BTools.ftvntxf8tr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-ftvntxf8tr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001792114695"
+          "Quality": "0.001689189189"
         }
       ],
       "ResponseHeaders": [
@@ -401,15 +401,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -429,13 +429,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "W/\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -443,13 +443,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
+      "Route": "BTools.ftvntxf8tr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BTools.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1599"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -466,11 +466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -480,7 +480,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -488,13 +488,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-marm2ysokf.gz",
+      "Route": "BTools.ftvntxf8tr.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\h2w95a1s5f-ftvntxf8tr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -503,7 +503,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "Content-Type",
@@ -511,11 +511,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -533,7 +533,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -541,18 +541,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+          "Value": "sha256-gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.styles.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Route": "BTools.ftvntxf8tr.styles.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-ftvntxf8tr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001792114695"
+          "Quality": "0.001689189189"
         }
       ],
       "ResponseHeaders": [
@@ -562,15 +562,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -590,13 +590,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "W/\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -604,13 +604,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.styles.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "Route": "BTools.ftvntxf8tr.styles.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -619,7 +619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1599"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -627,11 +627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -641,7 +641,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -649,13 +649,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
-      "Route": "BTools.marm2ysokf.styles.css.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "Route": "BTools.ftvntxf8tr.styles.css.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-ftvntxf8tr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,7 +664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "Content-Type",
@@ -672,11 +672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -694,7 +694,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "marm2ysokf"
+          "Value": "ftvntxf8tr"
         },
         {
           "Name": "label",
@@ -702,18 +702,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+          "Value": "sha256-gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8="
         }
       ]
     },
     {
       "Route": "BTools.styles.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-ftvntxf8tr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001792114695"
+          "Quality": "0.001689189189"
         }
       ],
       "ResponseHeaders": [
@@ -723,15 +723,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -751,19 +751,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "W/\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
       "Route": "BTools.styles.css",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BTools.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -772,7 +772,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1599"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -780,11 +780,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs=\""
+          "Value": "\"La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -794,13 +794,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rv1oOVhP8MlWYbb77PDn+kHIe+akjf/0Fmmn9iN9dvs="
+          "Value": "sha256-La7bJCkkJDKK/+67W1EMbTxPNYK1DWoHLrAIcWlHM7k="
         }
       ]
     },
     {
       "Route": "BTools.styles.css.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-marm2ysokf.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\5eua9jck5h-ftvntxf8tr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -809,7 +809,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "557"
+          "Value": "591"
         },
         {
           "Name": "Content-Type",
@@ -817,11 +817,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo=\""
+          "Value": "\"gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 20:25:03 GMT"
+          "Value": "Wed, 12 Feb 2025 07:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -839,13 +839,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CAQiIlSkSvntspjqMpjwDjhPT5YZ9EHFp/29INpPtyo="
+          "Value": "sha256-gxXxz2Jbyq1wNsbedQPUGVpBQRKlYgne8U7bO+JRgF8="
         }
       ]
     },
     {
       "Route": "exampleJsInterop.6pqz8bsss0.js",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -868,7 +868,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -908,7 +908,7 @@
     },
     {
       "Route": "exampleJsInterop.6pqz8bsss0.js",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\exampleJsInterop.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -929,7 +929,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -953,7 +953,7 @@
     },
     {
       "Route": "exampleJsInterop.6pqz8bsss0.js.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -974,7 +974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1006,7 +1006,7 @@
     },
     {
       "Route": "exampleJsInterop.js",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1029,7 +1029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1061,7 +1061,7 @@
     },
     {
       "Route": "exampleJsInterop.js",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\wwwroot\\exampleJsInterop.js",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\wwwroot\\exampleJsInterop.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1082,7 +1082,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1098,7 +1098,7 @@
     },
     {
       "Route": "exampleJsInterop.js.gz",
-      "AssetFile": "C:\\Users\\Marc\\Documents\\GitHub\\BComps\\BComps\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
+      "AssetFile": "C:\\Users\\Marc.Blattmann\\Desktop\\Repos\\Comp Libary\\BComps\\BTools\\obj\\Debug\\net9.0\\compressed\\nwghtm2kiy-6pqz8bsss0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1119,7 +1119,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 19:06:06 GMT"
+          "Value": "Wed, 12 Feb 2025 07:12:54 GMT"
         },
         {
           "Name": "Cache-Control",

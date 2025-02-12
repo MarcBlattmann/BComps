@@ -34,6 +34,12 @@
     color: #000000;
 }
 
+.Ghost {
+    padding: 10px 20px;
+    background-color: transparent;
+    color: #000000;
+}
+
 /* Hover Style */
 
 .Primary:hover {
@@ -50,4 +56,8 @@
 
 .Outline:hover {
     background-color: rgb(240, 240, 241);
+}
+
+.Ghost:hover {
+    background-color: rgb(242, 242, 243);
 }

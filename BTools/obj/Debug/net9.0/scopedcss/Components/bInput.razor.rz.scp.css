@@ -1,6 +1,6 @@
 /* Main design */
 
-input[b-9lac2zxead] {
+.input[b-esw6qkgals] {
     all: unset;
     border: 1px #e2e2e5 solid;
     color: #000000;
@@ -13,7 +13,7 @@ input[b-9lac2zxead] {
 
 /* When clicked on */
 
-input:focus[b-9lac2zxead] {
+.input:focus[b-esw6qkgals] {
     outline: 2px solid #a0a0a9;
     outline-offset: 2px;
     border-color: #e6e6e9; 
