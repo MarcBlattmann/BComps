@@ -1,9 +1,21 @@
-﻿<input class="input" placeholder="@PlaceHolder" value="@Value"/>
+﻿<input class="input" placeholder="@PlaceHolder" value="@Value" type="@Type.ToString()"/>
 
 @code {
     [Parameter]
     public string? PlaceHolder { get; set; }
+
+    [Parameter]
+    public InputType? Type { get; set; }
     
     [Parameter]
     public string? Value { get; set; }
+
+
+    public enum InputType
+    {
+        number,
+        text,
+        email,
+        search
+    }
 }
