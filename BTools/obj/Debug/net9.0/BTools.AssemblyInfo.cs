@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marc Blattmann")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.4+1a29c147ffada7c11e92bb8c3551a8b8c5492c47")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.5.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.5+07ef1957cef2e48ef3896518484f2726c07c46c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTools")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.1.4.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.1.5.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/MarcBlattmann/BComps")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

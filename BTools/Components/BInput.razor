@@ -1,4 +1,4 @@
-﻿<input class="input" placeholder="@PlaceHolder" value="@Value" type="@Type.ToString()"/>
+﻿<input class="input" placeholder="@PlaceHolder" @bind="Value" type="@Type.ToString()"/>
 
 @code {
     [Parameter]
@@ -9,8 +9,7 @@
     
     [Parameter]
     public string? Value { get; set; }
-
-
+    
     public enum InputType
     {
         number,
