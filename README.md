@@ -1,4 +1,4 @@
-# BTools | Blazor Tools
+# BTools | Blazor Tools (In development)
 
 BTools is a powerful NuGet package for Blazor that provides a collection of useful and stylish UI components. These components are easy to integrate, require minimal configuration, and look great out of the box. 😉
 
